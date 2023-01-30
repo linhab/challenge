@@ -1,0 +1,332 @@
+body{
+  margin:0px;
+  color:#F8FAFB;
+  font-family: 'Rounded Mplus 1c';
+}
+/* koninichi*/
+header h1{
+  font-family: 'Rounded Mplus 1c';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 59px;
+  color: #383576;
+  margin: 75px auto 0 50px;
+}
+h1{
+  font-family: 'Rounded Mplus 1c';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 59px;
+  color: #383576;
+  margin: 75px auto 0 50px;
+}
+h2{
+  /* 最近の活動 */
+  font-family: 'Rounded Mplus 1c';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 36px;
+  color:#383576;
+
+}
+h4{
+  position: absolute;
+  height: 24px;
+  font-family: 'Rounded Mplus 1c';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #1C1951;
+}
+h5 {
+  position: absolute;
+  width: 80px;
+  height: 24px;
+  left: 30px;
+  font-family: 'Rounded Mplus 1c';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #43408D;
+}
+.shukkin{
+  position: relative;
+}
+/* square */
+.square{
+  position:absolute;
+  margin:0px;
+  width: 214px;
+  height: 229px;
+  left: 50px;
+  top: 51px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+  cursor: pointer;
+}
+.square:hover {
+  background-color: #F8FAFB;
+  color: white;
+}
+
+/* ellipse*/
+.ellipse-shukkin{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right:15px;
+  top:14px;
+  background: #6F6AF2;
+  border-radius: 15px;
+}
+.logo{
+  position: absolute;
+  width:40%;
+  margin:64px 60px 0 60px;
+}
+.text{
+  position: absolute;
+  color: #383576;
+  margin:160px 87px;
+}
+.taikin{
+  position: absolute;
+  left: 264px;
+}
+/* ellipse*/
+.ellipse-taikin{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right:15px;
+  top:14px;
+  background: #DD2838;
+  border-radius: 15px;
+}
+
+.zangyou{
+  position: absolute;
+  left: 528px;
+}
+/* ellipse*/
+.ellipse-zangyou{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right:15px;
+  top:14px;
+  background:#5DD75B;
+  border-radius: 15px;
+}
+
+.kyuuka{
+  position: absolute;
+  left: 792px;
+}
+/* ellipse*/
+.ellipse-kyuuka{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right:15px;
+  top:14px;
+  background:#C5C3F7;
+  border-radius: 15px;
+}
+
+.middle{
+  position: absolute;
+  margin:300px 50px;
+}
+.rectangle1{
+  width: 570px;
+  height: 73px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+/* .rectangle2{
+  position: absolute;
+  width: 570px;
+  height: 73px;
+  top: 200px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.rectangle3{
+  position: absolute;
+  width: 570px;
+  height: 73px;
+  top: 300px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.rectangle4{
+  position: absolute;
+  width: 570px;
+  height: 73px;
+  top: 400px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.rectangle5{
+  position: absolute;
+  width: 570px;
+  height: 73px;
+  top: 500px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.rectangle6{
+  position: absolute;
+  width: 570px;
+  height: 73px;
+  top: 600px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+} */
+.history{
+  position: relative;
+  width: 120px;
+  padding-top:25px;
+}
+.statics{
+  position: absolute;
+  margin-left: 630px;
+  width: 97px;
+  padding-top: 25px;
+}
+/*shukkin-hi*/
+.shukkin-hi{
+  position: absolute;
+  width: 185px;
+  height: 138px;
+  top: 100px;
+  left: 630px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.shukkin-hi-day{
+  position: absolute;
+  margin:60px 30px;
+}
+.shukkin-holiday{
+  position: absolute;
+  width: 151px;
+  height: 138px;
+  left: 855px;
+  top: 100px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.shukkin-time{
+  position: absolute;
+  width: 378px;
+  height: 138px;
+  left: 630px;
+  top: 280px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.zangyou-time{
+  position: absolute;
+  width: 163px;
+  height: 138px;
+  left: 630px;
+  top: 460px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.kyuuka-time{
+  position: absolute;
+  width: 163px;
+  height: 138px;
+  left: 850px;
+  top: 460px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px 2px rgba(212, 210, 248, 0.5);
+  border-radius: 15px;
+}
+.day{
+  left: 40px;
+}
+.time{
+  left: 280px
+}
+.button-taikin{
+  width: 64px;
+  height: 33px;
+  background: #DD2838;
+  border-radius: 5px;
+}
+.button-taikin-text{
+  left: 450px;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 5px;
+  margin: 15px
+}
+.button-shukkin{
+  width: 64px;
+  height: 33px;
+  background: #6F6AF2;
+  border-radius: 5px;
+  
+}
+.button-shukkin-text{
+  left: 450px;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 5px;
+  margin: 15px
+}
+.button-shosai{
+  position: absolute;
+  width: 64px;
+  height: 33px;
+  left: 280px;
+  top: 19px;
+  background: #6F6AF2;
+  border-radius: 5px;
+}
+.button-shosai-text{
+  position: absolute;
+  width: 28px;
+  height: 21px;
+  margin: 0px;
+  margin-left:10px;
+  padding-left: 16px;
+  padding-top: 10px;
+  font-family: 'Rounded Mplus 1c';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+.i{
+position: absolute;
+width: 12px;
+top: 11px;
+left: 8px;
+
+}
